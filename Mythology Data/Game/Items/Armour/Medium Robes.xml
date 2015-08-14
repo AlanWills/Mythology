@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ItemClasses="XRpgLibrary.ItemClasses">
+  <Asset Type="ItemClasses:ArmourData">
+    <Name>Medium Robes</Name>
+    <Type>Robes</Type>
+    <Price>20</Price>
+    <Weight>8</Weight>
+    <Equipped>false</Equipped>
+    <ArmourLocation>Body</ArmourLocation>
+    <DefenceValue>5</DefenceValue>
+    <DefenceModifier>0</DefenceModifier>
+    <AllowableClasses>
+      <Item>Wizard</Item>
+    </AllowableClasses>
+  </Asset>
+</XnaContent>

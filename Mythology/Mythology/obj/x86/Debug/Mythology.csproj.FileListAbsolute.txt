@@ -1,0 +1,64 @@
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\SpriteFonts\ControlFont.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Backgrounds\MainMenu.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\rightarrowUp.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\StopBar.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Tilesets\tileset1.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Tilesets\tileset2.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalefighter.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalepriest.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalerogue.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalewizard.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malefighter.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malepriest.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malerogue.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malewizard.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\listBoxImage.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\ObjectSprites\containers.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Big Gold Chest.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Broken Crate.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Gold Chest.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Plain Chest.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Rusty Chest.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Fighter.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Priest.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Rogue.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Wizard.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Game.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail Boots.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail Gloves.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail Helm.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Armor.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Boots.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Gloves.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Helm.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Light Robes.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Medium Robes.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Armor.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Boots.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Gloves.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Helm.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Heavy Tower Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Large Kite Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Large Metal Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Large Wooden Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Medium Metal Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Medium Wooden Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Small Metal Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Small Wooded Shield.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Keys\Golden Key.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Keys\Rusty Key.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Bartering.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Herbalism.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Poison Making.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Trap Making.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Mythology.exe
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Mythology.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\obj\x86\Debug\Mythology.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\obj\x86\Debug\Mythology.exe
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\obj\x86\Debug\Mythology.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\ObjectSprites\itemimages.xnb

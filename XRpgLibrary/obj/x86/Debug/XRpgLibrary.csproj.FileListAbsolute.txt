@@ -1,0 +1,6 @@
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XRpgLibrary\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XRpgLibrary\obj\x86\Debug\XRpgLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XRpgLibrary\obj\x86\Debug\XRpgLibrary.dll
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XRpgLibrary\obj\x86\Debug\XRpgLibrary.pdb

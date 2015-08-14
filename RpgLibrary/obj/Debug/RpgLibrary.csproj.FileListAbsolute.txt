@@ -1,0 +1,5 @@
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\RpgLibrary\obj\Debug\RpgLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\RpgLibrary\obj\Debug\RpgLibrary.pdb

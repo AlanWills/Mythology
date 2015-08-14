@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFonts\ControlFont.spritefont</Source>
+      <Name>SpriteFonts\ControlFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\SpriteFonts\ControlFont.xnb</Output>
+      <Time>2015-08-06T13:49:37.7987552+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MainMenu.jpg</Source>
+      <Name>Backgrounds\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Backgrounds\MainMenu.xnb</Output>
+      <Time>2015-08-06T12:08:03.7734108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\leftarrowUp.png</Source>
+      <Name>GUI\leftarrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\leftarrowUp.xnb</Output>
+      <Time>2015-08-06T15:53:46.7854934+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\rightarrowUp.png</Source>
+      <Name>GUI\rightarrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\rightarrowUp.xnb</Output>
+      <Time>2015-08-06T15:53:46.7874955+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\StopBar.png</Source>
+      <Name>GUI\StopBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\StopBar.xnb</Output>
+      <Time>2015-08-06T15:53:46.7894964+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\tileset1.png</Source>
+      <Name>Tilesets\tileset1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Tilesets\tileset1.xnb</Output>
+      <Time>2015-08-06T19:05:16.2922257+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\tileset2.png</Source>
+      <Name>Tilesets\tileset2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Tilesets\tileset2.xnb</Output>
+      <Time>2015-08-10T10:40:36.252428+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\femalefighter.png</Source>
+      <Name>PlayerSprites\femalefighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalefighter.xnb</Output>
+      <Time>2015-08-10T15:53:58.6656107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\femalepriest.png</Source>
+      <Name>PlayerSprites\femalepriest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalepriest.xnb</Output>
+      <Time>2015-08-10T15:53:58.3804237+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\femalerogue.png</Source>
+      <Name>PlayerSprites\femalerogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalerogue.xnb</Output>
+      <Time>2015-08-10T15:53:58.4174456+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\femalewizard.png</Source>
+      <Name>PlayerSprites\femalewizard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\femalewizard.xnb</Output>
+      <Time>2015-08-10T15:53:58.4684824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\malefighter.png</Source>
+      <Name>PlayerSprites\malefighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malefighter.xnb</Output>
+      <Time>2015-08-10T15:53:58.5215171+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\malepriest.png</Source>
+      <Name>PlayerSprites\malepriest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malepriest.xnb</Output>
+      <Time>2015-08-10T15:53:58.5695459+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\malerogue.png</Source>
+      <Name>PlayerSprites\malerogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malerogue.xnb</Output>
+      <Time>2015-08-10T15:53:58.6065729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\malewizard.png</Source>
+      <Name>PlayerSprites\malewizard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\PlayerSprites\malewizard.xnb</Output>
+      <Time>2015-08-10T15:53:58.6435974+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\listBoxImage.png</Source>
+      <Name>GUI\listBoxImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\GUI\listBoxImage.xnb</Output>
+      <Time>2015-08-11T16:09:58.2031236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ObjectSprites\containers.png</Source>
+      <Name>ObjectSprites\containers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\ObjectSprites\containers.xnb</Output>
+      <Time>2015-08-12T18:15:05.4808031+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ObjectSprites\itemimages.png</Source>
+      <Name>ObjectSprites\itemimages</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\ObjectSprites\itemimages.xnb</Output>
+      <Time>2015-08-13T12:50:23.3704624+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Chests\Big Gold Chest.xml</Source>
+      <Name>Game\Chests\Big Gold Chest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Big Gold Chest.xnb</Output>
+      <Time>2015-08-13T22:10:23.3273639+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Chests\Broken Crate.xml</Source>
+      <Name>Game\Chests\Broken Crate</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Broken Crate.xnb</Output>
+      <Time>2015-08-13T22:10:23.3203571+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Chests\Gold Chest.xml</Source>
+      <Name>Game\Chests\Gold Chest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Gold Chest.xnb</Output>
+      <Time>2015-08-13T22:10:23.3123522+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Chests\Plain Chest.xml</Source>
+      <Name>Game\Chests\Plain Chest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Plain Chest.xnb</Output>
+      <Time>2015-08-13T22:10:23.3043474+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Chests\Rusty Chest.xml</Source>
+      <Name>Game\Chests\Rusty Chest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Chests\Rusty Chest.xnb</Output>
+      <Time>2015-08-13T22:10:23.2973431+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Classes\Fighter.xml</Source>
+      <Name>Game\Classes\Fighter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Fighter.xnb</Output>
+      <Time>2015-08-13T22:10:23.2903377+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Classes\Priest.xml</Source>
+      <Name>Game\Classes\Priest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Priest.xnb</Output>
+      <Time>2015-08-13T22:10:23.2793359+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Classes\Rogue.xml</Source>
+      <Name>Game\Classes\Rogue</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Rogue.xnb</Output>
+      <Time>2015-08-13T22:10:23.2683299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Classes\Wizard.xml</Source>
+      <Name>Game\Classes\Wizard</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Classes\Wizard.xnb</Output>
+      <Time>2015-08-13T22:10:23.2463089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Game.xml</Source>
+      <Name>Game\Game</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Game.xnb</Output>
+      <Time>2015-08-13T22:10:23.2353012+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Chain Mail Boots.xml</Source>
+      <Name>Game\Items\Armour\Chain Mail Boots</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail Boots.xnb</Output>
+      <Time>2015-08-13T22:10:23.2292968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Chain Mail Gloves.xml</Source>
+      <Name>Game\Items\Armour\Chain Mail Gloves</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail Gloves.xnb</Output>
+      <Time>2015-08-13T22:10:23.2042811+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Chain Mail Helm.xml</Source>
+      <Name>Game\Items\Armour\Chain Mail Helm</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail Helm.xnb</Output>
+      <Time>2015-08-13T22:10:23.1822657+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Chain Mail.xml</Source>
+      <Name>Game\Items\Armour\Chain Mail</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Chain Mail.xnb</Output>
+      <Time>2015-08-13T22:10:23.141206+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Leather Armor.xml</Source>
+      <Name>Game\Items\Armour\Leather Armor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Armor.xnb</Output>
+      <Time>2015-08-13T22:10:23.114189+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Leather Boots.xml</Source>
+      <Name>Game\Items\Armour\Leather Boots</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Boots.xnb</Output>
+      <Time>2015-08-13T22:10:23.083171+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Leather Gloves.xml</Source>
+      <Name>Game\Items\Armour\Leather Gloves</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Gloves.xnb</Output>
+      <Time>2015-08-13T22:10:23.0741634+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Leather Helm.xml</Source>
+      <Name>Game\Items\Armour\Leather Helm</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Leather Helm.xnb</Output>
+      <Time>2015-08-13T22:10:23.0641572+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Light Robes.xml</Source>
+      <Name>Game\Items\Armour\Light Robes</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Light Robes.xnb</Output>
+      <Time>2015-08-13T22:10:23.047145+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Medium Robes.xml</Source>
+      <Name>Game\Items\Armour\Medium Robes</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Medium Robes.xnb</Output>
+      <Time>2015-08-13T22:10:23.0371388+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Studded Leather Armor.xml</Source>
+      <Name>Game\Items\Armour\Studded Leather Armor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Armor.xnb</Output>
+      <Time>2015-08-13T22:10:23.0271288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Studded Leather Boots.xml</Source>
+      <Name>Game\Items\Armour\Studded Leather Boots</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Boots.xnb</Output>
+      <Time>2015-08-13T22:10:23.0051117+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Studded Leather Gloves.xml</Source>
+      <Name>Game\Items\Armour\Studded Leather Gloves</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Gloves.xnb</Output>
+      <Time>2015-08-13T22:10:22.9961057+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armour\Studded Leather Helm.xml</Source>
+      <Name>Game\Items\Armour\Studded Leather Helm</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Armour\Studded Leather Helm.xnb</Output>
+      <Time>2015-08-13T22:10:22.9860982+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Heavy Tower Shield.xml</Source>
+      <Name>Game\Items\Shield\Heavy Tower Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Heavy Tower Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.9520766+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Large Kite Shield.xml</Source>
+      <Name>Game\Items\Shield\Large Kite Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Large Kite Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.9420691+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Large Metal Shield.xml</Source>
+      <Name>Game\Items\Shield\Large Metal Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Large Metal Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.9300671+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Large Wooden Shield.xml</Source>
+      <Name>Game\Items\Shield\Large Wooden Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Large Wooden Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.9210582+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Medium Metal Shield.xml</Source>
+      <Name>Game\Items\Shield\Medium Metal Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Medium Metal Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.9060461+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Medium Wooden Shield.xml</Source>
+      <Name>Game\Items\Shield\Medium Wooden Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Medium Wooden Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.8910374+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Small Metal Shield.xml</Source>
+      <Name>Game\Items\Shield\Small Metal Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Small Metal Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.878028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Small Wooded Shield.xml</Source>
+      <Name>Game\Items\Shield\Small Wooded Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Items\Shield\Small Wooded Shield.xnb</Output>
+      <Time>2015-08-13T22:10:22.8480102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Keys\Golden Key.xml</Source>
+      <Name>Game\Keys\Golden Key</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Keys\Golden Key.xnb</Output>
+      <Time>2015-08-13T22:10:22.344627+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Keys\Rusty Key.xml</Source>
+      <Name>Game\Keys\Rusty Key</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Keys\Rusty Key.xnb</Output>
+      <Time>2015-08-13T22:10:22.3356206+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Bartering.xml</Source>
+      <Name>Game\Skills\Bartering</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Bartering.xnb</Output>
+      <Time>2015-08-13T22:10:22.3276149+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Herbalism.xml</Source>
+      <Name>Game\Skills\Herbalism</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Herbalism.xnb</Output>
+      <Time>2015-08-13T22:10:22.3206103+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Poison Making.xml</Source>
+      <Name>Game\Skills\Poison Making</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Poison Making.xnb</Output>
+      <Time>2015-08-13T22:10:22.3126062+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Trap Making.xml</Source>
+      <Name>Game\Skills\Trap Making</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\Game\Skills\Trap Making.xnb</Output>
+      <Time>2015-08-13T22:10:22.3035994+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{884DEE4E-8F8F-45DE-899B-C3A75D404F27}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\MythologyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\Mythology\Mythology\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll</Key>
+        <Value>2015-08-14T12:58:05.0106448+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-03T16:50:45.1394543+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

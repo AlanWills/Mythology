@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ItemClasses="XRpgLibrary.ItemClasses">
+  <Asset Type="ItemClasses:ArmourData">
+    <Name>Chain Mail Gloves</Name>
+    <Type>Gloves</Type>
+    <Price>30</Price>
+    <Weight>4</Weight>
+    <Equipped>false</Equipped>
+    <ArmourLocation>Hands</ArmourLocation>
+    <DefenceValue>10</DefenceValue>
+    <DefenceModifier>0</DefenceModifier>
+    <AllowableClasses>
+      <Item>Fighter</Item>
+      <Item>Priest</Item>
+    </AllowableClasses>
+  </Asset>
+</XnaContent>

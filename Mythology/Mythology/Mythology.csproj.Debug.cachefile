@@ -1,0 +1,56 @@
+Content\SpriteFonts\ControlFont.xnb
+Content\Backgrounds\MainMenu.xnb
+Content\GUI\leftarrowUp.xnb
+Content\GUI\rightarrowUp.xnb
+Content\GUI\StopBar.xnb
+Content\Tilesets\tileset1.xnb
+Content\Tilesets\tileset2.xnb
+Content\PlayerSprites\femalefighter.xnb
+Content\PlayerSprites\femalepriest.xnb
+Content\PlayerSprites\femalerogue.xnb
+Content\PlayerSprites\femalewizard.xnb
+Content\PlayerSprites\malefighter.xnb
+Content\PlayerSprites\malepriest.xnb
+Content\PlayerSprites\malerogue.xnb
+Content\PlayerSprites\malewizard.xnb
+Content\GUI\listBoxImage.xnb
+Content\ObjectSprites\containers.xnb
+Content\ObjectSprites\itemimages.xnb
+Content\Game\Chests\Big Gold Chest.xnb
+Content\Game\Chests\Broken Crate.xnb
+Content\Game\Chests\Gold Chest.xnb
+Content\Game\Chests\Plain Chest.xnb
+Content\Game\Chests\Rusty Chest.xnb
+Content\Game\Classes\Fighter.xnb
+Content\Game\Classes\Priest.xnb
+Content\Game\Classes\Rogue.xnb
+Content\Game\Classes\Wizard.xnb
+Content\Game\Game.xnb
+Content\Game\Items\Armour\Chain Mail Boots.xnb
+Content\Game\Items\Armour\Chain Mail Gloves.xnb
+Content\Game\Items\Armour\Chain Mail Helm.xnb
+Content\Game\Items\Armour\Chain Mail.xnb
+Content\Game\Items\Armour\Leather Armor.xnb
+Content\Game\Items\Armour\Leather Boots.xnb
+Content\Game\Items\Armour\Leather Gloves.xnb
+Content\Game\Items\Armour\Leather Helm.xnb
+Content\Game\Items\Armour\Light Robes.xnb
+Content\Game\Items\Armour\Medium Robes.xnb
+Content\Game\Items\Armour\Studded Leather Armor.xnb
+Content\Game\Items\Armour\Studded Leather Boots.xnb
+Content\Game\Items\Armour\Studded Leather Gloves.xnb
+Content\Game\Items\Armour\Studded Leather Helm.xnb
+Content\Game\Items\Shield\Heavy Tower Shield.xnb
+Content\Game\Items\Shield\Large Kite Shield.xnb
+Content\Game\Items\Shield\Large Metal Shield.xnb
+Content\Game\Items\Shield\Large Wooden Shield.xnb
+Content\Game\Items\Shield\Medium Metal Shield.xnb
+Content\Game\Items\Shield\Medium Wooden Shield.xnb
+Content\Game\Items\Shield\Small Metal Shield.xnb
+Content\Game\Items\Shield\Small Wooded Shield.xnb
+Content\Game\Keys\Golden Key.xnb
+Content\Game\Keys\Rusty Key.xnb
+Content\Game\Skills\Bartering.xnb
+Content\Game\Skills\Herbalism.xnb
+Content\Game\Skills\Poison Making.xnb
+Content\Game\Skills\Trap Making.xnb

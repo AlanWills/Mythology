@@ -1,0 +1,17 @@
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.FormMain.resources
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.FormNewLayer.resources
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.FormNewLevel.resources
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.FormNewTileset.resources
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\grid.xnb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\XLevelEditor.exe
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\XLevelEditor.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.exe
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\obj\x86\Debug\XLevelEditor.pdb
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\cursor.png
+C:\Users\Alan\Documents\Visual Studio 2013\Projects\Mythology\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\grid.png
